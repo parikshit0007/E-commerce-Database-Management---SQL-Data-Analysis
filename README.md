@@ -3,7 +3,7 @@ Led database management and data analysis for an e-commerce company. Designed an
 
 **Data Source:** [E-commerce Database Management](https://drive.google.com/uc?export=download&id=1ER_mYFI802EGw84_k1PBOc6OjJrUTHYa)
 
-**1)** Executed queries to retrieve and list employee salaries.
+**1)** Executed queries to retrieve and list employee salaries.<br>
 **2)** Demonstrated proficiency in querying to filter and display employee names with 'A' anywhere in their names.
 **3)** Implemented SQL logic to identify employees hired within the first half of each month.
 **4)** Successfully extracted and showcased the names of all female employees within the organization.
